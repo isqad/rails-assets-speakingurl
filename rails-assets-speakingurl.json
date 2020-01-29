@@ -1,0 +1,30 @@
+{
+  "name": "rails-assets-speakingurl",
+  "downloads": null,
+  "version": "9.0.0",
+  "version_downloads": null,
+  "platform": "ruby",
+  "authors": "rails-assets.org",
+  "info": "Generate a slug \u{2013} transliteration with a lot of options",
+  
+  "metadata": {
+
+  },
+  "sha": null,
+  "project_uri": "http://pid.github.io/speakingurl",
+  "gem_uri": null,
+  "homepage_uri": "http://pid.github.io/speakingurl",
+  "wiki_uri": null,
+  "documentation_uri": null,
+  "mailing_list_uri": null,
+  "source_code_uri": "http://pid.github.io/speakingurl",
+  "bug_tracker_uri": null,
+  "dependencies": {
+    "development": [
+    
+    ],
+    "runtime": [
+
+    ]
+  }
+}
